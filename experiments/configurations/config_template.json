@@ -1,0 +1,38 @@
+{
+    "balance": false,
+    "cancellation": true,
+    "look_ahead": true,
+    "similar_support": false,
+    "feature_exchange": false,
+    "continuous_feature_exchange": false,
+    "rule_list": false,
+    "k_cluster": true,
+
+    "diagnostics": false,
+    "verbose": true,
+
+    "regularization": 0.005,
+    "uncertainty_tolerance": 0.0,
+    "upperbound": 0.0,
+    "depth_budget": 6,
+
+
+    "model_limit": 10000,
+    "precision_limit": 0,
+    "stack_limit": 0,
+    "tile_limit": 0,
+    "time_limit": 0,
+    "worker_limit": 1,
+
+    "costs": "",
+    "model": "",
+    "profile": "",
+    "timing": "",
+    "trace": "",
+    "tree": "",
+    "datatset_encoding": "",
+
+
+    "metric": "L2",
+    "weights": []
+  }
