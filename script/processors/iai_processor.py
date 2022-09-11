@@ -6,7 +6,8 @@ import numpy as np
 from sklearn.tree import DecisionTreeRegressor
 from sklearn.metrics import mean_squared_error
 from julia.api import Julia
-Julia(compiled_modules=False, sysimage='/Users/ruizhang/Downloads/sys.dylib')
+# Julia(compiled_modules=False, sysimage='/Users/ruizhang/Downloads/sys.dylib')
+Julia(compiled_modules=False)
 from interpretableai import iai
 
 
