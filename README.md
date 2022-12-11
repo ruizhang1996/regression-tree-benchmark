@@ -1,6 +1,6 @@
 # regression-tree-benchmark
 This is benchmarks of tree regressors: 
-* OSRT: [Optimal Sparse Regression Tree](https://github.com/zbw8388/RegressionTrees)
+* OSRT: [Optimal Sparse Regression Tree](https://https://github.com/ruizhang1996/optimal-sparse-regression-tree-public)
 * Evtree: [Evolutionary Classification and Regression Tree](https://cran.r-project.org/web/packages/evtree/vignettes/evtree.pdf)
 * IAI: [Interpretable AI](https://www.interpretable.ai/products/optimal-trees/)
 * GUIDE: [Generalized, Unbiased, Interaction Detection and Estimation](https://pages.stat.wisc.edu/~loh/guide.html)
